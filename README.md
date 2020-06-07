@@ -1,12 +1,12 @@
-# Ecoleta
+# Ecoleta ♻
 
- O Ecoleta é um site de criação e buscagem de pontos de coletas de resíduos para reciclagem criado pela Rocketseat para a semana Next Level Week.
+O Ecoleta é um site de criação e buscagem de pontos de coletas de resíduos para reciclagem criado pela Rocketseat para a semana Next Level Week.
 
 A escolha desse tema foi devido ao projeto ser criado durante a semana do meio ambiente.
 
 ![landing-page](https://user-images.githubusercontent.com/59144771/83967853-800db280-a89b-11ea-9477-e5f46f7c6e1f.png)
 
-## Tecnologias usadas
+## Tecnologias usadas 👨‍💻
 
 - Node.js
 - NPM
@@ -34,7 +34,7 @@ A escolha desse tema foi devido ao projeto ser criado durante a semana do meio a
 3. Nunjucks: `npm install nunjucks`
 4. Sqlite3: `npm install sqlite3`
 
-## Contribuição
+## Contribuição 💪
 
 1. Para contribuir, basta fazer um fork. 
 (<https://github.com/arturbruno17/next-level-week/fork)>
