@@ -37,7 +37,7 @@ A escolha desse tema foi devido ao projeto ser criado durante a semana do meio a
 ## Contribuição 💪
 
 1. Para contribuir, basta fazer um fork. 
-(<https://github.com/arturbruno17/next-level-week/fork)>
+(<https://github.com/arturbruno17/ecoleta-nlw/fork)>
 
 2. Crie uma branch para sua modificação
 (`git checkout -b feature/fooBar`)
